@@ -1,0 +1,47 @@
+.App{
+  text-align: center;
+  border: 15px solid black;
+}
+.nome{
+  padding: 50px;
+}
+.foto-perfil{
+  border-radius: 100%;
+  max-width:  200px;
+  border: 2px solid black;
+  display: inline-block;
+  vertical-align: top;
+}
+.info{
+  padding: 20px;
+}
+.info-pessoais{
+  text-decoration-line:underline;
+}
+.conteudo{
+  text-align: left;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  margin: 50px;
+}
+.exp-profissional{
+  padding: 30px;
+  color: hsl(0, 0%, 37%);
+  
+}
+.certificados{
+  text-align: left;
+}
+.paginas-sociais{
+  padding-bottom: 30px;
+  color: black;
+  font-size: 23px;
+}
+h2{
+  color: black;
+  font-size: 35px;
+}
+b{
+  color: black;
+}
