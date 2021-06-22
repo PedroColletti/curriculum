@@ -1,1 +1,1 @@
-Curriculum simples feito em ReactJS, TypeScript e CSS.
+Curriculum simples feito em ReactJS, TypeScript, StyledComponents, FontAwesome e CSS.
